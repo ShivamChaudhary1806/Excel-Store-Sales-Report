@@ -1,5 +1,6 @@
 # Excel-Store-Sales-Report
 Store Sales Analysis using Excel
+
 Steps in Project:
 1) Data Cleaning - Find and Replace values
 2) Data Processing - Used conditions,Extracted monthname from date
