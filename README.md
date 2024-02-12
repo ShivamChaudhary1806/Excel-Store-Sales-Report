@@ -6,7 +6,7 @@ Steps in Project:
 3) Data Analysis - Pivot table,Chart,Interactive Dashboard
 
    Insights:
-   1. Women are more likely to buy compared to men
+1. Women are more likely to buy compared to men
    2. Maharashtra,Karnataka and Uttar Pradesh are the top 3 States 
    3. Adult age group (30-49 yrs) is max contributing
    4. Amazon, Flipkart and Myntra channels are max contributing
